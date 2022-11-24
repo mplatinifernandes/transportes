@@ -1,0 +1,11 @@
+pid,label,descricao,data,tipo,order,layout,collection,thumbnail,full,manifest
+1,Fotografia 1,Trem,2020,,00,qatar_item,historia-transporte,"/img/derivatives/iiif/images/1/full/250,/0/default.jpg","/img/derivatives/iiif/images/1/full/1140,/0/default.jpg",/img/derivatives/iiif/1/manifest.json
+2,Fotografia 2,Avião,2019,,01,qatar_item,historia-transporte,"/img/derivatives/iiif/images/2/full/250,/0/default.jpg","/img/derivatives/iiif/images/2/full/1140,/0/default.jpg",/img/derivatives/iiif/2/manifest.json
+3,Fotografia 3,Cruzeiro,2016,,02,qatar_item,historia-transporte,"/img/derivatives/iiif/images/3/full/250,/0/default.jpg","/img/derivatives/iiif/images/3/full/1140,/0/default.jpg",/img/derivatives/iiif/3/manifest.json
+4,Fotografia 4,Zepelim,1921,,03,qatar_item,historia-transporte,"/img/derivatives/iiif/images/4/full/250,/0/default.jpg","/img/derivatives/iiif/images/4/full/1140,/0/default.jpg",/img/derivatives/iiif/4/manifest.json
+5,Fotografia 5,Balão,1995,,04,qatar_item,historia-transporte,"/img/derivatives/iiif/images/5/full/250,/0/default.jpg","/img/derivatives/iiif/images/5/full/1140,/0/default.jpg",/img/derivatives/iiif/5/manifest.json
+6,Fotografia 6,Ônibus Espacial,1993,,05,qatar_item,historia-transporte,"/img/derivatives/iiif/images/6/full/250,/0/default.jpg","/img/derivatives/iiif/images/6/full/1140,/0/default.jpg",/img/derivatives/iiif/6/manifest.json
+7,Fotografia 7,Monza,1994,,06,qatar_item,historia-transporte,"/img/derivatives/iiif/images/7/full/250,/0/default.jpg","/img/derivatives/iiif/images/7/full/1140,/0/default.jpg",/img/derivatives/iiif/7/manifest.json
+8,Fotografia 8,Bicicleta cargueiro,1976,,07,qatar_item,historia-transporte,"/img/derivatives/iiif/images/8/full/250,/0/default.jpg","/img/derivatives/iiif/images/8/full/1140,/0/default.jpg",/img/derivatives/iiif/8/manifest.json
+9,Fotografia 9,Motocicleta,1926,,08,qatar_item,historia-transporte,"/img/derivatives/iiif/images/9/full/250,/0/default.jpg","/img/derivatives/iiif/images/9/full/1140,/0/default.jpg",/img/derivatives/iiif/9/manifest.json
+10,Fotografia 10,Cavalo,2018,,09,qatar_item,historia-transporte,"/img/derivatives/iiif/images/10/full/250,/0/default.jpg","/img/derivatives/iiif/images/10/full/1140,/0/default.jpg",/img/derivatives/iiif/10/manifest.json

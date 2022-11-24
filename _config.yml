@@ -18,11 +18,11 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Wax'
-description:      'Minimal Exhibitions with Jekyll'
-url:              'https://minicomp.github.io'
-baseurl:          '/wax'
-copyright:        'Example copyright org, 2019'
+title:            'História dos Transportes'
+description:      'Conheça a história dos meios de transporte'
+url:              'https://mplatinifernandes.github.io'
+baseurl:          '/transportes'
+copyright:        'Todos os direitos reservados 2022'
 logo:             '/assets/logo.png'
 
 # ---------------------------------------------------------------
@@ -65,13 +65,13 @@ kramdown:
 collections:
   exhibits:
     output: true
-  qatar: # name of collection
+  historia-transporte: # name of collection
     output: true # makes sure pages are output as html files
     layout: 'qatar_item' # the layout for the pages to use
     metadata:
-      source: 'qatar.csv' # path to the metadata file within `_data`
+      source: 'transportes_dados.csv' # path to the metadata file within `_data`
     images:
-      source: 'raw_images/qatar' # path to the directory of images within `_data`
+      source: 'raw_images/fotos_transporte' # path to the directory of images within `_data`
 
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS
@@ -85,15 +85,14 @@ search:
   main:
     index: '/search/index.json' # file the index will get written to
     collections:
-      qatar:
+      historia-transporte:
         content: false # whether or not to index page content
         fields: # the metadata fields to index
-          - artist
-          - location
+          - pid
           - label
-          - _date
-          - object_type
-          - current_location
+          - descricao
+          - data
+          - tipo
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS
